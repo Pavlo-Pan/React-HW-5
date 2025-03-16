@@ -1,0 +1,7 @@
+.container {
+    margin: 0 auto;
+    color: var(--main-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
