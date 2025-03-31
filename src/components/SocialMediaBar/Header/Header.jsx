@@ -1,4 +1,4 @@
-import { SpotifyLogo } from '../../assets/icons/exportIcons.js';
+import { SpotifyLogo } from '../../../assets/icons/exportIcons.js';
 import styles from './Header.module.css';
 const Header = () => {
     return (

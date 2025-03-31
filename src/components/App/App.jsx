@@ -1,5 +1,5 @@
 import SocialMediaBar from '../SocialMediaBar/SocialMediaBar'
-import '../styles/style.css'
+import '../../styles/style.css'
 function App() {
   return (
     <>

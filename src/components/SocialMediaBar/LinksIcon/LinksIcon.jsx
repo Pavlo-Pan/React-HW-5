@@ -1,4 +1,4 @@
-import { AppleIcon, GoogleIcon, XIcon } from '../../assets/icons/exportIcons.js'
+import { AppleIcon, GoogleIcon, XIcon } from '../../../assets/icons/exportIcons.js'
 import styles from './LinksIcon.module.css'
 
 const LinksIcon = () => {
